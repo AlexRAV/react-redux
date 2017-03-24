@@ -1,0 +1,36 @@
+{
+  "departments": [
+    {
+      "name": "dev-ops",
+      "id": 0
+    },
+    {
+      "name": "website development",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "managment"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Aleksey",
+      "lastName": "Rebenkov",
+      "departmentId": "1",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "firstName": "Lisa",
+      "lastName": "Kubantsova",
+      "departmentId": 2
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "departmentId": "0",
+      "id": 2
+    }
+  ]
+}
